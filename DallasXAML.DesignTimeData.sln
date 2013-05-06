@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InPlaceData", "InPlaceData\InPlaceData.csproj", "{AECFC999-09EF-45FB-AE9D-0FF85B15A5C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleData", "SampleData\SampleData.csproj", "{E5B10210-E876-4623-A3AE-29E95BEB8652}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignModeViewModelData", "DesignModeViewModelData\DesignModeViewModelData.csproj", "{F8452864-5C5F-4114-A380-B4277FB43756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignModeModelData", "DesignModeModelData\DesignModeModelData.csproj", "{DC710FCA-2F82-4125-9959-CF26E64DDC4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AECFC999-09EF-45FB-AE9D-0FF85B15A5C4}.Debug|x86.ActiveCfg = Debug|x86
+		{AECFC999-09EF-45FB-AE9D-0FF85B15A5C4}.Debug|x86.Build.0 = Debug|x86
+		{AECFC999-09EF-45FB-AE9D-0FF85B15A5C4}.Release|x86.ActiveCfg = Release|x86
+		{AECFC999-09EF-45FB-AE9D-0FF85B15A5C4}.Release|x86.Build.0 = Release|x86
+		{E5B10210-E876-4623-A3AE-29E95BEB8652}.Debug|x86.ActiveCfg = Debug|x86
+		{E5B10210-E876-4623-A3AE-29E95BEB8652}.Debug|x86.Build.0 = Debug|x86
+		{E5B10210-E876-4623-A3AE-29E95BEB8652}.Release|x86.ActiveCfg = Release|x86
+		{E5B10210-E876-4623-A3AE-29E95BEB8652}.Release|x86.Build.0 = Release|x86
+		{F8452864-5C5F-4114-A380-B4277FB43756}.Debug|x86.ActiveCfg = Debug|x86
+		{F8452864-5C5F-4114-A380-B4277FB43756}.Debug|x86.Build.0 = Debug|x86
+		{F8452864-5C5F-4114-A380-B4277FB43756}.Release|x86.ActiveCfg = Release|x86
+		{F8452864-5C5F-4114-A380-B4277FB43756}.Release|x86.Build.0 = Release|x86
+		{DC710FCA-2F82-4125-9959-CF26E64DDC4D}.Debug|x86.ActiveCfg = Debug|x86
+		{DC710FCA-2F82-4125-9959-CF26E64DDC4D}.Debug|x86.Build.0 = Debug|x86
+		{DC710FCA-2F82-4125-9959-CF26E64DDC4D}.Release|x86.ActiveCfg = Release|x86
+		{DC710FCA-2F82-4125-9959-CF26E64DDC4D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
