@@ -4,18 +4,8 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              mc:Ignorable="d" 
-             d:DesignHeight="441" d:DesignWidth="891">
+             d:DesignHeight="441" d:DesignWidth="891" Background="White">
     <Grid>
-    	<Image Margin="33,24,694,221.545" Source="/InPlaceData;component/Assets/Hanselman.png"/>
-    	<TextBlock Margin="261,44,40,0" TextWrapping="Wrap" Text="Angle Brackets, Curly Braces, One ASP.NET and the Cloud" VerticalAlignment="Top" FontSize="29.333"/>
-    	<TextBlock Margin="261,136,56,0" TextWrapping="Wrap" Text="Scott Hanselman" VerticalAlignment="Top" FontSize="21.333"/>
-    	<TextBlock Margin="261,186,40,0" TextWrapping="Wrap" Text="One ASP.NET and VS 2012 includes some amazing new tooling enhancements for HTML5, CSS3 and JavaScript. There's powerful features like Model Binding + Friendly Urls. ASP.NET Web Forms allows you to build an application with all the bells and whistles of an MVC 4 application with all the productivity of Web Forms. ASP.NET Web Forms are also &quot;DRYer&quot; than ever with Models + Model Validation + Model Binding + Clean Urls + Mobile support. ASP.NET Web Pages along with ASP.NET Web API plus HTML5, JavaScript and modern development techniques makes development fun again. Join Scott Hanselman as he shows you how it works together. We'll also talk about the rise of the cloud and how it changes the way we write large systems. All this, plus a lot of open source, and deploying to Azure." VerticalAlignment="Top" FontSize="16"/>
-    	<Border BorderThickness="1" HorizontalAlignment="Left" Height="80" Margin="69,277,0,0" VerticalAlignment="Top" Width="96" Background="#FF591B1B">
-    		<Grid>
-    			<TextBlock TextWrapping="Wrap" Text="10:00" VerticalAlignment="Top" Margin="24.75,14,25.25,0" FontSize="16" Foreground="White" HorizontalAlignment="Center"/>
-    			<TextBlock Margin="16,45.28,17,0" TextWrapping="Wrap" Text="AS400" VerticalAlignment="Top" Foreground="White" FontSize="16" HorizontalAlignment="Center"/>
-    		</Grid>
-    	</Border>
             
     </Grid>
 </UserControl>

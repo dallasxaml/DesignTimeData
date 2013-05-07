@@ -3,24 +3,11 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-             xmlns:s="clr-namespace:System;assembly=mscorlib"
              mc:Ignorable="d" 
              d:DesignHeight="410" d:DesignWidth="470">
-	<UserControl.Resources>
-		<DataTemplate x:Key="SessionItemTemplate">
-			<Grid Height="88" Width="365.333">
-				<Image Margin="10,10,0,9.345" Source="/InPlaceData;component/Assets/Hanselman.png" Stretch="Uniform" HorizontalAlignment="Left" Width="59"/>
-				<TextBlock HorizontalAlignment="Stretch" Height="Auto" Margin="74,10,10,0" TextWrapping="Wrap" Text="{Binding Mode=OneWay}" VerticalAlignment="Top" FontSize="16"/>
-				<TextBlock HorizontalAlignment="Stretch" Height="Auto" Margin="75.667,39.667,20.999,0" TextWrapping="Wrap" Text="Scott Hanselman" VerticalAlignment="Top" FontSize="14.667"/>
-			</Grid>
-		</DataTemplate>
-	</UserControl.Resources>
     <Grid>
     	<TextBlock Margin="30,22,36,0" TextWrapping="Wrap" Text="Web" VerticalAlignment="Top" FontSize="32"/>
-        <ListBox HorizontalAlignment="Left" Height="298" Margin="32,83,0,0" VerticalAlignment="Top" Width="398" ItemTemplate="{DynamicResource SessionItemTemplate}">
-            <s:String>Angle Brackets in the Cloud</s:String>
-            <s:String>Angular Applications</s:String>
-            <s:String>Ouch! These darn Angle Brackets!</s:String>
+        <ListBox HorizontalAlignment="Left" Height="298" Margin="32,83,0,0" VerticalAlignment="Top" Width="398">
         </ListBox>
 
     </Grid>

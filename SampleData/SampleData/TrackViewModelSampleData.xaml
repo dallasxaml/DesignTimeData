@@ -1,0 +1,14 @@
+<ViewModels:TrackViewModel xmlns:ViewModels="clr-namespace:SampleData.ViewModels" Name="Aenean mauris aliquam">
+	<ViewModels:TrackViewModel.Sessions>
+		<ViewModels:SessionHeaderViewModel Room="Maecenas integer class nullam" Speaker="Praesent nam curabitur quisque" Time="05/06/2013 22:54:08" Title="Sed dis accumsan est hac"/>
+		<ViewModels:SessionHeaderViewModel Room="Leo vestibulum aptent curae vivamus" Speaker="Aliquam mus aliquet phasellus donec" Time="05/06/2013 22:54:08" Title="Cras bibendum adipiscing"/>
+		<ViewModels:SessionHeaderViewModel Room="Blandit auctor consequat" Speaker="Dictumst congue etiam cursus" Time="05/06/2013 22:54:08" Title="Convallis commodo dignissim"/>
+		<ViewModels:SessionHeaderViewModel Room="Parturient conubia elementum" Speaker="Vestibulum facilisis fusce lorem vestibulum" Time="05/06/2013 22:54:08" Title="Cubilia fermentum dapibus"/>
+		<ViewModels:SessionHeaderViewModel Room="Eleifend nec" Speaker="Non adipiscing dictum fringilla morbi" Time="05/06/2013 22:54:08" Title="Parturient habitasse duis nunc hendrerit"/>
+		<ViewModels:SessionHeaderViewModel Room="Facilisi egestas lectus" Speaker="Himenaeos nulla euismod proin" Time="05/06/2013 22:54:08" Title="Faucibus amet libero"/>
+		<ViewModels:SessionHeaderViewModel Room="Ante ligula imperdiet habitant inceptos" Speaker="Augue arcu feugiat dolor gravida" Time="05/06/2013 22:54:08" Title="Malesuada fames"/>
+		<ViewModels:SessionHeaderViewModel Room="Penatibus felis" Speaker="Interdum porttitor per litora" Time="05/06/2013 22:54:08" Title="Sed vestibulum tincidunt iaculis"/>
+		<ViewModels:SessionHeaderViewModel Room="Lobortis tristique diam luctus ipsum" Speaker="Lacinia vestibulum magnis eget" Time="05/06/2013 22:54:08" Title="Sem mattis justo"/>
+		<ViewModels:SessionHeaderViewModel Room="Adipiscing laoreet elit ultricies enim" Speaker="Sit venenatis" Time="05/06/2013 22:54:08" Title="Lacus parturient natoque"/>
+	</ViewModels:TrackViewModel.Sessions>
+</ViewModels:TrackViewModel>
