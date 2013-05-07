@@ -103,10 +103,10 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <DesignData Include="SampleData\TrackViewModelSampleData.xaml" />
+    <Resource Include="Assets\Hanselman.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Assets\Hanselman.png" />
+    <Folder Include="SampleData\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
