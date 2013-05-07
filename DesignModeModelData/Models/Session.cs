@@ -13,6 +13,11 @@ namespace DesignModeModelData.Models
         private Independent<Room> _room = new Independent<Room>();
         private Independent<DateTime> _time = new Independent<DateTime>();
 
+        public Session(Speaker speaker)
+        {
+            _speaker = speaker;
+        }
+
         public Speaker Speaker
         {
             get { return _speaker; }
